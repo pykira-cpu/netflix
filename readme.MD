@@ -11,7 +11,7 @@ The given datasets are Trainingsets.txt and Testingsets.txt having 3 features na
 
 ## Step 1 : Implementation 
 
-Implement the approach in a Jupyter Notebook using PySPARK on an AWS EMR cluster gor getting the rating predictions and evaluating those ratings by comparing them to the provided true ratings.
+Implement the approach in a Jupyter Notebook using PySPARK on an AWS EMR cluster for getting the rating predictions and evaluating those ratings by comparing them to the provided true ratings.
 
 
 ### Analyzing the data
